@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1046286130760",
+    "firebase_url": "https://onetouch-29504.firebaseio.com",
+    "project_id": "onetouch-29504",
+    "storage_bucket": "onetouch-29504.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1046286130760:android:3b69d35cacc8e7f5",
+        "android_client_info": {
+          "package_name": "com.example.ghost.onetouch"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1046286130760-j3g1hipu800pves2a4v9ur6bn4siarei.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.ghost.onetouch",
+            "certificate_hash": "ba7cefbb0c03a0e446684931dd9a17a6ca2bbd30"
+          }
+        },
+        {
+          "client_id": "1046286130760-4b6g31hc690mikfan6guk5i4s213t1ak.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC8_N3IKwRnxCk8IecEcOjVaFsjLLFYOj4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1046286130760-4b6g31hc690mikfan6guk5i4s213t1ak.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

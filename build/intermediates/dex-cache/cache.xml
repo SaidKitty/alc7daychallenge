@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/ghost/AndroidStudioProjects/OneTouch/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.2"
+        sha1="401086c5a3b18795246b5742778dbcc09fb5ce6c">
+        <dex dex="/home/ghost/AndroidStudioProjects/OneTouch/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_7f08b71e3e723436a17a957af41517858130431d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ghost/AndroidStudioProjects/OneTouch/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.2"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/home/ghost/AndroidStudioProjects/OneTouch/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_38062799716876cc0577b2e6fce9929a0f80ac23/classes.dex" />
+    </item>
+
+</items>
